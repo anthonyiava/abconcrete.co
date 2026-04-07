@@ -1,6 +1,5 @@
 # abconcrete.co
 Concrete Website
-[index.html](https://github.com/user-attachments/files/26546702/index.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
